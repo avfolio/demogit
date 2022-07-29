@@ -1,5 +1,5 @@
 package test1;
-// Version #1
+// Register
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
